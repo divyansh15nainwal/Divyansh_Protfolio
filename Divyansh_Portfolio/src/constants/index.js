@@ -64,5 +64,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "A-9 2nd Floor Sanwal Nagar, New Delhi, India ",
   phoneNo: "+91 9773568232 ",
-  email: "Divyanshnainwal15.com",
+  email: "Divyanshnainwal15@gmail.com",
 };
