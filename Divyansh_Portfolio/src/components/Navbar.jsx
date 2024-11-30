@@ -25,7 +25,7 @@ function Navbar(){
         aria-label="Twitter">
           <FaSquareXTwitter/>
         </a>
-        <a href="https://www.linkedin.com/in/divyansh-nainwal-b2b84129b/" target="_blank"
+        <a href="https://www.instagram.com/_.ndivyansh/" target="_blank"
         rel="noopener noreferrer"
         aria-label="Instagram">
           <FaInstagram/>
